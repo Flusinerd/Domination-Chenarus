@@ -1,0 +1,13 @@
+/* #Geroki
+$[
+	1.063,
+	["vehicleSpawner",[[0,0,1,1],0.025,0.04,"GUI_GRID"],0,0,0],
+	[2200,"background",[1,"",["0.29375 * safezoneW + safezoneX","0.225 * safezoneH + safezoneY","0.4125 * safezoneW","0.55 * safezoneH"],[-1,-1,-1,-1],[0,0,0,0.8],[0,0,0,0.8],"","-1"],[]],
+	[1000,"",[1,"Vehicle Spawner",["0.29375 * safezoneW + safezoneX","0.225 * safezoneH + safezoneY","0.4125 * safezoneW","0.033 * safezoneH"],[-1,-1,-1,-1],[1,0.8,0,1],[1,0.8,0,1],"","-1"],[]],
+	[1500,"",[1,"",["0.304062 * safezoneW + safezoneX","0.335 * safezoneH + safezoneY","0.391875 * safezoneW","0.319 * safezoneH"],[-1,-1,-1,-1],[-1,-1,-1,-1],[-1,-1,-1,-1],"Select a vehicle","-1"],[]],
+	[2100,"",[1,"",["0.304062 * safezoneW + safezoneX","0.302 * safezoneH + safezoneY","0.391875 * safezoneW","0.022 * safezoneH"],[-1,-1,-1,-1],[-1,-1,-1,-1],[-1,-1,-1,-1],"Select the vehicle catergory","-1"],[]],
+	[1600,"closeButton",[1,"Close",["0.304062 * safezoneW + safezoneX","0.709 * safezoneH + safezoneY","0.061875 * safezoneW","0.044 * safezoneH"],[-1,-1,-1,-1],[-1,-1,-1,-1],[-1,-1,-1,-1],"Close the Dialog","-1"],[]],
+	[1601,"spawnButton",[1,"Spawn",["0.634062 * safezoneW + safezoneX","0.709 * safezoneH + safezoneY","0.061875 * safezoneW","0.044 * safezoneH"],[-1,-1,-1,-1],[-1,-1,-1,-1],[-1,-1,-1,-1],"Spawn the Vehicle at a free location","-1"],[]],
+	[1001,"",[1,"Please select a vehicle and click spawn",["0.30125 * safezoneW + safezoneX","0.257306 * safezoneH + safezoneY","0.165 * safezoneW","0.055 * safezoneH"],[-1,-1,-1,-1],[-1,-1,-1,-1],[-1,-1,-1,-1],"","-1"],[]]
+]
+*/
