@@ -1,2 +1,8 @@
 #include "dialogs\defines.hpp"
 #include "dialogs\vehicleSpawner\vehicleSpawnerDialog.hpp"
+
+class CfgFunctions {
+	#include "LARs\spawnComp\functions\functions.cpp"
+};
+
+#include "compositions\compositions.cfg"

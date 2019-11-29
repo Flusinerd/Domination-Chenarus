@@ -115,6 +115,7 @@ if (_isPlane == "false") then {
 	};
 };
 
+// Spawn the vehicle
 if (isNull _freeSpawnLocation) then {
 	hint "No Free Spawn locations left";
 } else {

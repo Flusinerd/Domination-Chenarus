@@ -1,3 +1,8 @@
+/*
+* Function for opening the plane spawner
+* Author: Flusinerd(Jan)
+*/
+
 _dialog = createDialog "vehicleSpawnerDialog";
 _vehicleTypes = ['Helicopters', 'Planes'];
 

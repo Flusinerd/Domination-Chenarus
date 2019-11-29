@@ -1,3 +1,8 @@
+/*
+* Function for opening the vehicle spawner
+* Author: Flusinerd(Jan)
+*/
+
 _dialog = createDialog "vehicleSpawnerDialog";
 _vehicleTypes = ['Cars', 'Armored', 'Armor'];
 
