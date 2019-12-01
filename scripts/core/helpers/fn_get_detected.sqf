@@ -5,7 +5,7 @@
  * returns: detected:bool
  */
 
-_detectionValue = (this select 0) knowsAbout (this select 1);
+_detectionValue = (_this select 0) knowsAbout (_this select 1);
 _detected = false;
 if (_detectionValue >= 1.5) then {
 	_detected = true;
